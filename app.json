@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/GeometryCalc.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.stevesilvas.GeometryCalc"
     },
     "web": {
       "favicon": "./assets/GeometryCalc.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a18fed96-661a-46e4-9fb1-b14cc7d8b9aa"
+      }
     }
   }
 }
